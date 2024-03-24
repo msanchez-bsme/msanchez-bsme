@@ -3,7 +3,7 @@
 <h2> About </h2><p>My combination of skills allows me to take a systematic approach to solving complex real world problems. I'm currently a business intellegence analyst putting to use my skills with Power BI, SQL, and excel to build reports and dashboards to help answer business process questions and drive informed decision making. I've also implemented Python based solutions to automate business processes in previous positinos. I currently have 4 years experience in the energy and automotive fields (working on projects relating to efficiency, durability, and emissions) and recently began working in higher education. Check back soon to see newly added project repositories!</p>
 
 <h2>💻 Projects</h2>
-\t<h3 href="https://github.com/msanchez-bsme/PowerBI_Reports/">Power BI</h3>
+<a href="https://github.com/msanchez-bsme/PowerBI_Reports/">Power BI</a>
 
 <h2> 🤳 Connect with me:</h2>
 
