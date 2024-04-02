@@ -6,6 +6,7 @@
 <a href="https://github.com/msanchez-bsme/PowerBI_Reports/">Power BI</a>
 
 <h2>✨ Highlighted Projects</h2>
+<a href="https://github.com/msanchez-bsme/PowerBI_Reports/tree/main/Customer%20Churn">Customer Churn Analysis (Power BI)</a>
 
 <h2> 🤳 Connect with me:</h2>
 
